@@ -9,14 +9,14 @@ url:              http://jamie-c.github.io/nourished-theme
 # Owner/author information
 owner:
   name:           NOURISHED Coaching & Consulting
-  avatar:         bio-photo.jpg
+  avatar:         NOURISHED_SquarePortraits.png
   email:          hello@nourishedcoaching.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        NourishedCo
   facebook:       NourishedCoaching
   github:         
   stackexchange:  
-  linkedin:       company/nourished-coaching-&-consulting
+  linkedin:       
   instagram:      
   flickr:         
   tumblr:         
@@ -38,8 +38,8 @@ links:
     url: /articles
   - title: Theme Setup
     url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Eat. Think. Nourish.
+    url: http://eatthinknourish.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
