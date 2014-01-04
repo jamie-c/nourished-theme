@@ -1,4 +1,4 @@
-title:            Site Title
+title:            NOURISHED Coaching & Consulting
 description:      Describe your website here.
 logo:             site-logo.png
 disqus_shortname: 
@@ -8,15 +8,15 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           NOURISHED Coaching & Consulting
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          hello@nourishedcoaching.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:        http://www.twitter.com/NourishedCo
+  facebook:       http://www.facebook.com/NourishedCoaching
   github:         
   stackexchange:  
-  linkedin:       
+  linkedin:       http://www.linkedin.com/company/nourished-coaching-&-consulting
   instagram:      
   flickr:         
   tumblr:         
@@ -43,7 +43,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      true
 pygments:    true
 markdown:    kramdown
