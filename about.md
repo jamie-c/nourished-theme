@@ -5,7 +5,7 @@ title: About the Jekyll Theme
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
-  feature: NOURISHED_LOGO_FULLTAG_RGB.svg
+  feature: NOURISHED_LOGO_FULLTAG_RGB.png
   credit: Braid Creative
   creditlink: http://braidcreative.com
 ---
