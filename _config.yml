@@ -12,11 +12,11 @@ owner:
   avatar:         bio-photo.jpg
   email:          hello@nourishedcoaching.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        http://www.twitter.com/NourishedCo
-  facebook:       http://www.facebook.com/NourishedCoaching
+  twitter:        NourishedCo
+  facebook:       NourishedCoaching
   github:         
   stackexchange:  
-  linkedin:       http://www.linkedin.com/company/nourished-coaching-&-consulting
+  linkedin:       company/nourished-coaching-&-consulting
   instagram:      
   flickr:         
   tumblr:         
