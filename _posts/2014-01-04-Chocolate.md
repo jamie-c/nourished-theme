@@ -5,7 +5,6 @@ description: "Who loves Chocolate."
 category: articles
 tags: [sample post, link post]
 comments: true
-link: http://nourished.io
 ---
 
 So Simple Theme now supports **link posts**, made famous by John Gruber. To activate just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
