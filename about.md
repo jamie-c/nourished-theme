@@ -5,7 +5,7 @@ title: About NOURISHED Coaching & Consulting
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
-  feature: NOURISHED_LOGO_FULLTAG_RGB.png
+  feature: NOURISHED_WhereHealthBegins.jpg
   credit: 
   creditlink: 
 ---
